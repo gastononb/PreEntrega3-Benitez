@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(187, 162, 166);
+    
+}
+
+.menu{
+    width: 100% !important;
+}
+.h-main{
+    text-align: center;
+}
+.div-main{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+
+}
+.cartas{
+    margin: 0.5rem
+}
+footer{
+    text-align: center;
+}
