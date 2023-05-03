@@ -1,10 +1,8 @@
 # nombre: 
-simulador de armado de tortas
+tienda de tortas
 # descripcion: 
-en este simulador podras crear una torta con 3 ingredientes, luego podras ingresar la cantidad de tortas que desees y adquirir un descuento del 10%
+una tienda virtual de tortas, donde podras agregar los productos al carrito y comprarlos
 # intrucciones
-1er paso ingresar la cantidad de tortas que desea hacer
-2do paso ingresar 1 ingrediente en cada prompt  
-3er decidir si desea acceder al descuento con la palabra "descuento"
+desde la pagina principal puedes moverte a la page "productos", donde estaran nuestras tortas, si clickeas en el boton "agregar al carrito" el producto sera agregado a nuestro carrito de compras donde tendras la opcion de pagar el total y eliminar algun producto que no desees
 # autor
 Gaston Ivan Benitez
