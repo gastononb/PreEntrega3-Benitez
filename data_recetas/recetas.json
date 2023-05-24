@@ -1,0 +1,357 @@
+[
+  {
+    "nombre": "Lemon pie",
+    "id": 1,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas",
+      "ingrediente2": "100 g de manteca derretida",
+      "ingrediente3": "4 yemas de huevo",
+      "ingrediente4": "400 g de leche condensada",
+      "ingrediente5": "Jugo de 4 limones (aproximadamente ½ taza)",
+      "ingrediente6": "Ralladura de limón (opcional, para decorar)",
+      "ingrediente7": "4 claras de huevo",
+      "ingrediente8": "200 g de azúcar"
+    },
+    "pasos": {
+      "paso1": "Tritura las galletas en un procesador de alimentos o colócalas en una bolsa y machácalas con un rodillo hasta que estén pulverizadas. ",
+      "paso2": "En un bol, mezcla las galletas trituradas con la mantequilla derretida hasta obtener una masa húmeda y compacta. ",
+      "paso3": "Cubre el fondo de un molde para tarta con la masa de galleta, presionando firmemente para que quede bien compacta. Puedes usar el dorso de una cuchara para ayudarte. ",
+      "paso4": "En otro bol, bate las yemas de huevo y añade la leche condensada, el jugo de limón y la ralladura de limón. Mezcla bien hasta obtener una mezcla suave y homogénea. ",
+      "paso5": "Vierte la mezcla sobre la base de galleta en el molde y extiéndela de manera uniforme. ",
+      "paso6": "Precalienta el horno a 180°C (350°F). ",
+      "paso7": "En otro bol limpio, bate las claras de huevo a punto de nieve. Añade el azúcar gradualmente mientras continúas batiendo hasta obtener un merengue firme y brillante.  ",
+      "paso8": "Cubre la mezcla de limón en el molde con el merengue, asegurándote de cubrir completamente toda la superficie. ",
+      "paso9": "Lleva el molde al horno precalentado y hornea durante aproximadamente 15 minutos o hasta que el merengue esté ligeramente dorado. ",
+      "paso10": "Retira del horno y deja enfriar a temperatura ambiente. Luego, refrigera en el refrigerador durante al menos 2 horas antes de servir. "
+    }
+  },
+  {
+    "nombre": "Chocotorta",
+    "id": 2,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletitas de chocolate tipo Chocolina o similar",
+      "ingrediente2": "500 g de queso crema",
+      "ingrediente3": "200 g de dulce de leche",
+      "ingrediente4": "200 ml de crema para batir",
+      "ingrediente5": "2 cucharaditas de esencia de vainilla",
+      "ingrediente6": "2 tazas de café fuerte",
+      "ingrediente7": "Cacao en polvo para espolvorear"
+    },
+    "pasos": {
+      "paso1": "En un recipiente, mezcla el queso crema con el dulce de leche y la esencia de vainilla. Bate bien hasta obtener una crema suave y homogénea.",
+      "paso2": "En otro recipiente aparte, bate la crema para batir hasta que forme picos suaves.",
+      "paso3": "Incorpora la crema batida a la mezcla de queso crema y dulce de leche. Mezcla suavemente hasta integrar todos los ingredientes.",
+      "paso4": "Prepara el café fuerte y déjalo enfriar.",
+      "paso5": "En un molde rectangular, coloca una capa de galletitas mojadas en el café. Cubre bien toda la base del molde.",
+      "paso6": "Sobre las galletitas, extiende una capa de la crema preparada. Asegúrate de distribuirla de manera uniforme.",
+      "paso7": "Repite el proceso, alternando capas de galletitas mojadas y capas de crema, hasta llenar el molde. La última capa debe ser de crema.",
+      "paso8": "Espolvorea generosamente con cacao en polvo la parte superior de la chocotorta.",
+      "paso9": "Cubre el molde con papel film y llévalo al refrigerador durante al menos 4 horas, o preferiblemente toda la noche, para que tome consistencia.",
+      "paso10": "Una vez que la chocotorta esté bien fría y firme, desmolda con cuidado y sírvela en porciones."
+    }
+  },
+  {
+    "nombre": "Cheesecake clasico",
+    "id": 3,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas tipo Digestive o galletas María",
+      "ingrediente2": "100 g de mantequilla derretida",
+      "ingrediente3": "500 g de queso crema",
+      "ingrediente4": "200 g de azúcar",
+      "ingrediente5": "200 ml de crema para batir",
+      "ingrediente6": "3 huevos",
+      "ingrediente7": "1 cucharadita de esencia de vainilla",
+      "ingrediente8": "Ralladura de limón (opcional)",
+      "ingrediente9": "Mermelada de frutas (fresa, frambuesa, arándanos, etc.) o salsa de caramelo"
+    },
+    "pasos": {
+      "paso1": "Precalienta el horno a 180°C.",
+      "paso2": "Tritura las galletas en un procesador de alimentos o colócalas en una bolsa de plástico y machácalas con un rodillo hasta obtener migas finas.",
+      "paso3": "En un recipiente, mezcla las migas de galleta con la mantequilla derretida hasta obtener una textura arenosa y húmeda.",
+      "paso4": "Cubre el fondo de un molde desmontable para tarta con la mezcla de galleta presionando firmemente para formar la base. Puedes utilizar la base de un vaso para nivelarla.",
+      "paso5": "En otro recipiente, bate el queso crema y el azúcar hasta obtener una mezcla suave y cremosa.",
+      "paso6": "Agrega la crema para batir, los huevos (uno a uno) y la esencia de vainilla. Continúa batiendo hasta que todos los ingredientes estén bien incorporados. Si lo deseas, puedes agregar ralladura de limón para darle un toque cítrico.",
+      "paso7": "Vierte la mezcla sobre la base de galleta en el molde.",
+      "paso8": "Hornea durante aproximadamente 45-50 minutos, o hasta que los bordes estén firmes y el centro tiemble ligeramente.",
+      "paso9": "Retira del horno y deja enfriar a temperatura ambiente. Luego, refrigera durante al menos 4 horas o preferiblemente toda la noche para que adquiera la consistencia adecuada.",
+      "paso10": "Antes de servir, puedes cubrir la parte superior del cheesecake con mermelada de frutas o salsa de caramelo, según tu preferencia."
+    }
+  },
+  {
+    "nombre": "Chocopie",
+    "id": 4,
+    "ingredientes": {
+      "ingrediente1": "2 huevos",
+      "ingrediente2": "100 g de azúcar",
+      "ingrediente3": "100 g de harina",
+      "ingrediente4": "25 g de cacao en polvo",
+      "ingrediente5": "1 cucharadita de esencia de vainilla",
+      "ingrediente6": "1 cucharadita de levadura en polvo",
+      "ingrediente7": "Una pizca de sal",
+      "ingrediente8": "200 g de malvaviscos",
+      "ingrediente9": "100 g de chocolate para fundir",
+      "ingrediente10": "2 cucharadas de mantequilla",
+      "ingrediente11": "2-3 cucharadas de leche",
+      "ingrediente12": "200 g de chocolate para fundir(cobertura)"
+    },
+    "pasos": {
+      "paso1": "Precalienta el horno a 180°C y prepara una bandeja de horno forrándola con papel encerado.",
+      "paso2": "En un recipiente, bate los huevos y el azúcar hasta obtener una mezcla espumosa.",
+      "paso3": "Agrega la esencia de vainilla y mezcla bien.",
+      "paso4": "En otro recipiente aparte, tamiza la harina, el cacao en polvo, la levadura en polvo y la sal. Mezcla los ingredientes secos.",
+      "paso5": "Añade los ingredientes secos a la mezcla de huevos y azúcar, y mezcla suavemente hasta obtener una masa homogénea.",
+      "paso6": "Vierte la masa en la bandeja de horno preparada, extendiéndola de manera uniforme.",
+      "paso7": "Hornea durante aproximadamente 10-12 minutos, o hasta que el bizcocho esté firme al tacto.",
+      "paso8": "Mientras tanto, prepara el relleno. En una cacerola a fuego medio-bajo, derrite el chocolate para fundir junto con los malvaviscos y la mantequilla, removiendo constantemente. Agrega la leche poco a poco para obtener una mezcla suave y cremosa.",
+      "paso9": "Retira el bizcocho del horno y déjalo enfriar por unos minutos. Luego, desmóldalo y colócalo sobre una superficie plana.",
+      "paso10": "Vierte el relleno de chocolate y malvaviscos sobre la mitad del bizcocho y extiéndelo de manera uniforme.",
+      "paso11": "Cubre el relleno con la otra mitad del bizcocho, formando un sándwich.",
+      "paso12": "Corta el bizcocho en cuadrados o círculos del tamaño deseado para los chocopies.",
+      "paso13": "Para la cobertura, derrite el chocolate para fundir en el microondas o a baño maría.",
+      "paso14": "Sumerge cada chocopy en el chocolate derretido, cubriéndolo completamente.",
+      "paso15": "Coloca los chocopies sobre una rejilla o bandeja forrada con papel encerado para que el chocolate se endurezca.",
+      "paso16": "Refrigera los chocopies durante al menos 30 minutos, o hasta que el chocolate esté firme."
+    }
+  },
+  {
+    "nombre": "Mousse Rosalba",
+    "id": 5,
+    "ingredientes": {
+      "ingrediente1": "200 g de chocolate negro para fundir",
+      "ingrediente2": "4 huevos, separados en claras y yemas",
+      "ingrediente3": "50 g de azúcar",
+      "ingrediente4": "1 cucharadita de esencia de vainilla",
+      "ingrediente5": "Una pizca de sal",
+      "ingrediente6": "200 ml de crema para batir, fría"
+    },
+    "pasos": {
+      "paso1": "Derrite el chocolate negro para fundir en el microondas o a baño maría. Deja enfriar ligeramente.",
+      "paso2": "En un recipiente, bate las yemas de huevo con el azúcar y la esencia de vainilla hasta obtener una mezcla cremosa.",
+      "paso3": "Agrega el chocolate derretido a la mezcla de yemas y mezcla bien hasta que esté completamente incorporado.",
+      "paso4": "En otro recipiente aparte, bate las claras de huevo con una pizca de sal hasta obtener picos firmes.",
+      "paso5": "Incorpora suavemente las claras batidas a la mezcla de chocolate y yemas, realizando movimientos envolventes para no perder el volumen.",
+      "paso6": "En otro recipiente, bate la crema para batir (nata líquida) hasta obtener picos suaves.",
+      "paso7": "Incorpora la crema batida a la mezcla de chocolate y claras en varias adiciones, mezclando suavemente para obtener una textura ligera y aireada.",
+      "paso8": "Vierte la mousse de chocolate en recipientes individuales o en un recipiente grande y refrigera durante al menos 2 horas, o hasta que esté firme.",
+      "paso9": "Una vez que la mousse esté lista, puedes decorarla con crema batida, ralladura de chocolate o frutas frescas antes de servir."
+    }
+  },
+  {
+    "nombre": "Key Lime Pie",
+    "id": 6,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas tipo Digestive o galletas María",
+      "ingrediente2": "100 g de mantequilla derretida",
+      "ingrediente3": "400 g de leche condensada",
+      "ingrediente4": "200 ml de jugo de lima",
+      "ingrediente5": "4 yemas de huevo",
+      "ingrediente6": "Ralladura de lima (opcional)",
+      "ingrediente7": "Crema batida",
+      "ingrediente8": "Rodajas de lima para decorar"
+    },
+    "pasos": {
+      "paso1": "Prepara la base triturando las galletas en un procesador de alimentos o colocándolas en una bolsa de plástico y machacándolas con un rodillo hasta obtener migas finas.",
+      "paso2": "En un recipiente, mezcla las migas de galleta con la mantequilla derretida hasta obtener una textura arenosa y húmeda.",
+      "paso3": "Cubre el fondo de un molde para tarta desmontable con la mezcla de galleta, presionando firmemente para formar la base. Puedes utilizar la base de un vaso para nivelarla.",
+      "paso4": "Refrigera la base mientras preparas el relleno.",
+      "paso5": "En otro recipiente, mezcla la leche condensada, el jugo de lima y las yemas de huevo. Bate bien hasta obtener una mezcla suave y homogénea.",
+      "paso6": " Agrega la ralladura de lima, si lo deseas, y mezcla nuevamente.",
+      "paso7": "Vierte la mezcla de lima sobre la base de galleta en el molde.",
+      "paso8": " Hornea la tarta a 180°C durante aproximadamente 15-20 minutos, o hasta que el relleno esté firme pero aún ligeramente tembloroso en el centro.",
+      "paso9": "Retira la tarta del horno y déjala enfriar a temperatura ambiente.",
+      "paso10": "Luego, refrigera la tarta durante al menos 4 horas, o preferiblemente toda la noche, para que tome consistencia.",
+      "paso11": "Antes de servir, puedes decorar la Key Lime Pie con crema batida y rodajas de lima."
+    }
+  },
+  {
+    "nombre": "Brownie Italiano",
+    "id": 7,
+    "ingredientes": {
+      "ingrediente1": "200 g de chocolate negro para fundir",
+      "ingrediente2": "150 g de mantequilla",
+      "ingrediente3": "200 g de azúcar",
+      "ingrediente4": "3 huevos",
+      "ingrediente5": "1 cucharadita de extracto de vainilla",
+      "ingrediente6": "150 g de harina",
+      "ingrediente7": "50 g de cacao en polvo",
+      "ingrediente8": "100 g de nueces picadas (opcional)",
+      "ingrediente9": "Azúcar glas (opcional, para decorar)"
+
+    },
+    "pasos":{ 
+      
+    "paso1":"Precalienta el horno a 180°C y prepara un molde cuadrado o rectangular engrasándolo y forrándolo con papel de horno.",
+    "paso2":"Derrite el chocolate negro y la mantequilla juntos en un recipiente resistente al calor, ya sea a baño maría o en el microondas en intervalos de 30 segundos, removiendo entre cada intervalo hasta que estén completamente derretidos y suaves.",
+    "paso3":"En otro recipiente, bate los huevos y el azúcar hasta obtener una mezcla espumosa.",
+    "paso4":"Agrega el extracto de vainilla a la mezcla de huevos y azúcar, y mezcla bien.",
+    "paso5":"Vierte la mezcla de chocolate y mantequilla derretidos sobre la mezcla de huevos y azúcar, y mezcla hasta que esté bien incorporado.",
+    "paso6":"Tamiza la harina y el cacao en polvo sobre la mezcla de chocolate y huevos, y mezcla hasta obtener una masa suave y sin grumos.",
+    "paso7":"Si deseas, añade las nueces picadas a la masa y mezcla suavemente para distribuirlas de manera uniforme.",
+    "paso8":"Vierte la masa en el molde preparado y extiéndela de manera uniforme.",
+    "paso9":"Hornea durante aproximadamente 25-30 minutos, o hasta que un palillo insertado en el centro salga con algunas migas húmedas.",
+    "paso10":"Retira el brownie del horno y déjalo enfriar completamente en el molde.",
+    "paso11":"Una vez que esté completamente frío, puedes espolvorear azúcar glas sobre la parte superior del brownie, si lo deseas, para decorar.",
+    "paso12":"Corta en cuadrados o rectángulos y sirve."
+
+  }
+    
+  },
+  {
+    "nombre": "Torta Bruce",
+    "id": 8,
+    "ingredientes": {
+      "ingrediente1": "200 g de harina",
+      "ingrediente2": "200 g de azúcar",
+      "ingrediente3": "50 g de cacao en polvo",
+      "ingrediente4": "1 cucharadita de bicarbonato de sodio",
+      "ingrediente5": "1/2 cucharadita de polvo de hornear",
+      "ingrediente6": "1/2 cucharadita de sal",
+      "ingrediente7": "120 ml de leche",
+      "ingrediente8": "120 ml de agua caliente",
+      "ingrediente9": "60 ml de aceite vegetal",
+      "ingrediente10": "2 huevos",
+      "ingrediente11": "1 cucharadita de extracto de vainilla",
+      "ingrediente12": "200 g de chocolate negro para fundir",
+      "ingrediente13": "200 ml de crema para batir (nata líquida)"
+    },
+    "pasos": {
+      "paso1": "Precalienta el horno a 180°C y prepara un molde redondo para tarta engrasándolo y forrándolo con papel de horno.",
+      "paso2": "En un recipiente grande, mezcla la harina, el azúcar, el cacao en polvo, el bicarbonato de sodio, el polvo de hornear y la sal.",
+      "paso3": "En otro recipiente, mezcla la leche, el agua caliente, el aceite vegetal, los huevos y el extracto de vainilla.",
+      "paso4": "Vierte los ingredientes líquidos sobre los ingredientes secos y mezcla hasta obtener una masa suave y homogénea.",
+      "paso5": "Vierte la masa en el molde preparado y alisa la parte superior.",
+      "paso6": "Hornea durante aproximadamente 30-35 minutos, o hasta que un palillo insertado en el centro salga limpio.",
+      "paso7": "Retira el bizcocho del horno y déjalo enfriar en el molde durante unos minutos. Luego, transfiérelo a una rejilla para que se enfríe completamente.",
+      "paso8": "Mientras tanto, prepara la cobertura de chocolate. Derrite el chocolate negro para fundir y mezcla con la crema para batir (nata líquida) hasta obtener una ganache suave y brillante.",
+      "paso9": "Coloca el bizcocho en un plato de servir y vierte la ganache de chocolate sobre la parte superior del bizcocho, dejando que gotee por los bordes. Extiende la ganache de manera uniforme sobre toda la superficie del bizcocho.",
+      "paso10": "Deja que la ganache se enfríe y se endurezca antes de cortar y servir la torta."
+    }
+  }
+  ,
+  {
+    "nombre": "Cheesecake Especial",
+    "id": 9,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas tipo digestive",
+      "ingrediente2": "100 g de mantequilla derretida",
+      "ingrediente3": "500 g de queso crema",
+      "ingrediente4": "200 g de azúcar",
+      "ingrediente5": "3 huevos",
+      "ingrediente6": "1 cucharadita de extracto de vainilla",
+      "ingrediente7": "200 g de dulce de leche",
+      "ingrediente8": "200 ml de crema para batir (nata líquida)",
+      "ingrediente9": "2 cucharadas de azúcar glas (opcional)"
+    },
+    "pasos": {
+      "paso1": "Precalienta el horno a 180°C.",
+      "paso2": "Tritura las galletas digestive hasta obtener una textura de migas finas. Mezcla las migas de galleta con la mantequilla derretida.",
+      "paso3": "Presiona la mezcla de galleta en el fondo de un molde desmontable, formando la base de la cheesecake. Refrigera mientras preparas el relleno.",
+      "paso4": "En un tazón grande, bate el queso crema y el azúcar hasta obtener una mezcla suave y sin grumos.",
+      "paso5": "Agrega los huevos uno a uno, batiendo bien después de cada adición. Incorpora el extracto de vainilla y continúa batiendo hasta obtener una mezcla homogénea.",
+      "paso6": "Vierte la mitad de la mezcla de queso sobre la base de galleta en el molde.",
+      "paso7": "Distribuye el dulce de leche sobre la mezcla de queso en el molde, creando una capa uniforme.",
+      "paso8": "Vierte el resto de la mezcla de queso sobre el dulce de leche, cubriendo completamente.",
+      "paso9": "Hornea la cheesecake durante aproximadamente 45-50 minutos, o hasta que los bordes estén dorados y el centro esté ligeramente firme al tacto.",
+      "paso10": "Retira la cheesecake del horno y deja que se enfríe a temperatura ambiente. Luego, refrigérala durante al menos 4 horas, o preferiblemente durante toda la noche.",
+      "paso11": "Antes de servir, bate la crema para batir con el azúcar glas hasta obtener picos suaves. Decora la cheesecake con la crema batida.",
+      "paso12": "Desmolda la cheesecake y sirve en porciones. ¡Disfruta!"
+    }
+  }
+  ,
+  {
+    "nombre": "Tarta Tofi",
+    "id": 10,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas",
+      "ingrediente2": "100 g de mantequilla derretida",
+      "ingrediente3": "200 g de dulce de leche",
+      "ingrediente4": "200 g de crema de leche",
+      "ingrediente5": "150 g de azúcar",
+      "ingrediente6": "50 g de mantequilla",
+      "ingrediente7": "1 cucharadita de extracto de vainilla",
+      "ingrediente8": "1 pizca de sal",
+      "ingrediente9": "100 g de frutos secos mixtos (almendras, nueces, avellanas, etc.), picados",
+      "ingrediente10": "50 g de chocolate negro",
+      "ingrediente11": "50 g de chocolate con leche",
+      "ingrediente12": "Frutos secos enteros para decorar (opcional)"
+    },
+    "pasos": {
+      "paso1": "Tritura las galletas hasta obtener una textura de migas finas. Mezcla las migas de galleta con la mantequilla derretida.",
+      "paso2": "Presiona la mezcla de galleta en el fondo de un molde desmontable, formando la base de la tarta. Refrigera mientras preparas el relleno.",
+      "paso3": "En una cacerola a fuego medio, calienta el dulce de leche, la crema de leche, el azúcar, la mantequilla, el extracto de vainilla y la sal. Cocina, revolviendo constantemente, hasta que la mezcla esté suave y ligeramente espesa.",
+      "paso4": "Retira la cacerola del fuego y agrega los frutos secos picados. Mezcla bien.",
+      "paso5": "Vierte la mezcla de relleno sobre la base de galleta en el molde, nivelando la superficie.",
+      "paso6": "Derrite el chocolate negro y el chocolate con leche por separado, ya sea en el microondas o a baño maría.",
+      "paso7": "Con una cuchara, rocía el chocolate negro y el chocolate con leche sobre la superficie de la tarta, creando un patrón decorativo.",
+      "paso8": "Si lo deseas, decora la tarta con frutos secos enteros.",
+      "paso9": "Refrigera la tarta durante al menos 4 horas, o preferiblemente durante toda la noche, para que se asiente y los sabores se mezclen.",
+      "paso10": "Antes de servir, desmolda la tarta y córtala en porciones. ¡Disfruta!"
+    }
+  }
+  ,
+  {
+    "nombre": "Carrot Cake",
+    "id": 11,
+    "ingredientes": {
+      "ingrediente1": "2 tazas de zanahorias ralladas",
+      "ingrediente2": "1 taza de azúcar",
+      "ingrediente3": "1 taza de harina de trigo",
+      "ingrediente4": "1/2 taza de aceite vegetal",
+      "ingrediente5": "3 huevos",
+      "ingrediente6": "1 cucharadita de polvo de hornear",
+      "ingrediente7": "1 cucharadita de bicarbonato de sodio",
+      "ingrediente8": "1/2 cucharadita de canela en polvo",
+      "ingrediente9": "1/2 cucharadita de nuez moscada en polvo",
+      "ingrediente10": "1/4 cucharadita de sal",
+      "ingrediente11": "250 g de queso crema",
+      "ingrediente12": "1/2 taza de mantequilla sin sal, a temperatura ambiente",
+      "ingrediente13": "2 tazas de azúcar glas (impalpable)",
+      "ingrediente14": "1 cucharadita de extracto de vainilla",
+      "ingrediente15": "1 taza de nueces picadas (opcional)",
+      "ingrediente16": "Crema batida para decorar (opcional)"
+    },
+    "pasos": {
+      "paso1": "Precalienta el horno a 180°C y prepara un molde redondo engrasándolo y enharinándolo.",
+      "paso2": "En un tazón grande, mezcla las zanahorias ralladas, el azúcar, el aceite vegetal y los huevos. Mezcla bien.",
+      "paso3": "Añade la harina, el polvo de hornear, el bicarbonato de sodio, la canela, la nuez moscada y la sal. Mezcla hasta obtener una masa homogénea.",
+      "paso4": "Vierte la masa en el molde preparado y alisa la superficie.",
+      "paso5": "Hornea durante aproximadamente 40-45 minutos, o hasta que al insertar un palillo en el centro de la torta, este salga limpio.",
+      "paso6": "Mientras la torta se enfría, prepara el relleno batiendo el queso crema, la mantequilla, el azúcar glas y el extracto de vainilla en un tazón hasta obtener una crema suave y sin grumos.",
+      "paso7": "Una vez que la torta esté completamente fría, córtala por la mitad horizontalmente para obtener dos capas.",
+      "paso8": "Coloca una capa de torta en un plato y extiende una capa generosa de relleno sobre ella. Coloca la otra capa de torta encima.",
+      "paso9": "Decora la parte superior de la torta con nueces picadas y/o crema batida, si lo deseas. Refrigerar antes de servir para que se asiente bien.",
+      "paso10": "¡Disfruta de tu deliciosa Carrot Cake!"
+    }
+  }
+  ,
+  {
+    "nombre": "Banoffee",
+    "id": 14,
+    "ingredientes": {
+      "ingrediente1": "200 g de galletas Digestive",
+      "ingrediente2": "100 g de mantequilla derretida",
+      "ingrediente3": "200 g de leche condensada",
+      "ingrediente4": "100 g de azúcar moreno",
+      "ingrediente5": "100 g de mantequilla",
+      "ingrediente6": "1 cucharada de miel",
+      "ingrediente7": "1 pizca de sal",
+      "ingrediente8": "3 plátanos maduros, cortados en rodajas",
+      "ingrediente9": "400 ml de crema para batir",
+      "ingrediente10": "2 cucharadas de azúcar",
+      "ingrediente11": "Chocolate rallado",
+      "ingrediente12": "Cacao en polvo"
+    },
+    "pasos": {
+      "paso1": "Tritura las galletas Digestive hasta obtener una textura de migas finas. Mezcla las migas de galleta con la mantequilla derretida.",
+      "paso2": "Presiona la mezcla de galleta en el fondo de un molde desmontable, formando la base de la banoffee. Refrigera mientras preparas la capa de caramelo.",
+      "paso3": "En una cacerola a fuego medio, calienta la leche condensada, el azúcar moreno, la mantequilla, la miel y la sal. Cocina, revolviendo constantemente, hasta que la mezcla se espese y adquiera un color dorado.",
+      "paso4": "Vierte la capa de caramelo sobre la base de galleta en el molde, asegurándote de cubrir toda la superficie de manera uniforme. Refrigera durante al menos 1 hora, o hasta que el caramelo se haya enfriado y endurecido.",
+      "paso5": "Una vez que el caramelo esté firme, coloca las rodajas de plátano sobre él, cubriendo toda la superficie.",
+      "paso6": "En un tazón, bate la crema para batir junto con el azúcar hasta obtener picos suaves. Extiende la crema batida sobre las rodajas de plátano en el molde.",
+      "paso7": "Decora la banoffee con chocolate rallado y espolvorea un poco de cacao en polvo por encima.",
+      "paso8": "Refrigera la banoffee durante al menos 4 horas, o preferiblemente durante toda la noche, para que se asiente y los sabores se mezclen.",
+      "paso9": "Antes de servir, desmolda la banoffee y córtala en porciones. ¡Disfruta de esta deliciosa y dulce tentación!"
+    }
+  }
+  
+]
