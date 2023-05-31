@@ -138,7 +138,7 @@ function mostrarReceta(receta) {
 }
 //   busca un objeto en un array por su id
 function recorrerArrayId(array, id) {
-    return array.find(objeto => objeto.id == id);
+    return array.find(objeto => objeto.id === parseInt(id));
 }
 //   creo una lista con atributos de un objeto
 function crearLista(objeto) {

@@ -12,11 +12,14 @@ function MostrarCarrito() {
   DOMcarrito.textContent = '';
   // aseguro que el carrito no tenga elementos que se repitan
   const carritoSinRepetidos = [...new Set(carrito)];
-
-
+if (carritoSinRepetidos.length == 0) {
+  const tituloCarritoVacio = document.createElement('h3');
+  tituloCarritoVacio.textContent = 'El carrito esta vacio'
+  DOMcarrito.appendChild(tituloCarritoVacio)
+} else {
   carritoSinRepetidos.forEach((item) => {
 
-    const miItem = contenedorTortas.filter((torta) => {
+    const miItem = contenedorTortas.find((torta) => {
       return torta.id === parseInt(item);
     });
 
@@ -25,8 +28,9 @@ function MostrarCarrito() {
     }, 0);
 
     const carritoTorta = document.createElement('li');
+   
     carritoTorta.classList.add('list-group-item', 'text-right', 'mx-2');
-    carritoTorta.textContent = `${numeroUnidadesItem} x ${miItem[0].nombre} - $${miItem[0].precio}`;
+    carritoTorta.textContent = `${numeroUnidadesItem} x ${miItem.nombre} - $${miItem.precio}`;
 
     const botonBorrar = document.createElement('button');
     botonBorrar.classList.add('btn', 'pagar-boton',);
@@ -37,10 +41,11 @@ function MostrarCarrito() {
 
     carritoTorta.appendChild(botonBorrar);
     DOMcarrito.appendChild(carritoTorta);
-  });
+  });}
 
   DOMtotal.textContent = calcularTotal();
   guardarCarritoEnLocalStorage();
+
 }
 // borro elemento item del carrito
 function borrarItemCarrito(evento) {
@@ -58,15 +63,19 @@ function borrarItemCarrito(evento) {
 }
 // calcula total
 function calcularTotal() {
-
+if (carrito.length == 0) {
+  return 0
+} else {
   return carrito.reduce((total, item) => {
-
     const miItem = contenedorTortas.filter((torta) => {
+      
       return torta.id === parseInt(item);
     });
 
     return total + miItem[0].precio;
   }, 0).toFixed(2);
+}
+  
 }
 
 // guarda carrito en el localStorage
@@ -87,10 +96,19 @@ function vaciarCarrito() {
 }
 // simula compra
 function pagar() {
+  if (carrito.length == 0) {
+    DOMcarrito.textContent = '';
+    const mensajeCarritoVacio = document.createElement('h4')
+  mensajeCarritoVacio.textContent = "Debe agregar productos al carrito!"
+  DOMcarrito.appendChild(mensajeCarritoVacio)
+  }else{
   vaciarCarrito();
+  DOMcarrito.textContent = '';
   const mensaje = document.createElement('h4')
   mensaje.textContent = "Muchas gracias por su compra!"
   DOMcarrito.appendChild(mensaje)
+  
+}
 }
 // variables para desplegar el carrito
 const botonDesplegar = document.getElementById("boton-carrito");
